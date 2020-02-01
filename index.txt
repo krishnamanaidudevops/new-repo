@@ -1,0 +1,95 @@
+Skip to content
+Why GitHub? 
+Enterprise
+Explore 
+Marketplace
+Pricing 
+Search
+
+Sign in
+Sign up
+bharathraju1988
+/
+personal-project
+100
+ Code Issues 0 Pull requests 0 Actions Projects 0 Security Insights
+Join GitHub today
+GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.
+
+personal-project/index.html
+@bharathraju1988 bharathraju1988 initial version
+6f21fb4 on Oct 21, 2019
+60 lines (56 sloc)  1.4 KB
+  
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Bharath personal Site</title>
+</head>
+
+<body>
+  <table cellspacing=20>
+    <tr>
+      <td><img src="Images/Bharath.png" alt="Bharath Profile Picture"></td>
+      <td><h1>Bharath K</h1>
+      <p><em>DevOps Engineer at <strong><a href="https://www.appbrewery.co/">Capgemini</a></strong></em></p>
+      <p>I am an DevOps engineer, worked for different companies with 6 years of experience.</p></td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Books and Teaching</h3>
+  <ul>
+    <li>The complete DevOps development Bootcamp</li>
+    <li>The complete Web development Bootcamp</li>
+  </ul>
+  <h3>Work experience</h3>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Roles</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2013 to 2019</td>
+        <td>Build & Release and DevOps Engineer</td>
+      </tr>
+      <tr>
+        <td>2019 to till date</td>
+        <td>DevOps and Cloud Engineer</td>
+      </tr>
+    </tbody>
+    <tfoot>
+
+    </tfoot>
+  </table>
+  <h3>Skills</h3>
+  <table cellspacing=10>
+    <tr>
+      <td>Jenkins</td>
+      <td>*****</td>
+      <td>Docker</td>
+      <td>****</td>
+    </tr>
+  </table>
+  <a href="hobbies.html">My Hobbies</a>
+  <a download href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf">Download Cheatsheet</a>
+  <a href="contact-me.html">contact</a>
+</body>
+
+</html>
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
